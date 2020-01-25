@@ -9,7 +9,6 @@ import java.util.Set;
  */
 
 @Entity
-
 public class Author {
 
     private Long id;
